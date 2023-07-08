@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nutrição App</string>
+    <string name="carbohydrate">Carboidrato</string>
+    <string name="calories">Calorias</string>
+    <string name="protein">Proteina</string>
+    <string name="refresh">Atualizar</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="value">Valor</string>
+    <string name="goal">Meta</string>
+</resources>

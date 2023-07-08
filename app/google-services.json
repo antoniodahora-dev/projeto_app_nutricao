@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526302512389",
+    "project_id": "appnutricao-b5af0",
+    "storage_bucket": "appnutricao-b5af0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526302512389:android:b03bd9326ef819a2b7236c",
+        "android_client_info": {
+          "package_name": "co.a3tecnology.appnutricao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526302512389-j5aha2l5bqe84efcrhj3ess52qit114b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpOabhMMnosfqiJCiqnF8dd4dr7h-yhq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526302512389-j5aha2l5bqe84efcrhj3ess52qit114b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
